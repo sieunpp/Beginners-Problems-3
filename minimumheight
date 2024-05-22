@@ -1,0 +1,5 @@
+minimum = int(input("how tall are you?"))
+if minimum >= 120:
+    print("you can ride the rollercoaster")
+else:
+    print("You cannot, Sorry")
